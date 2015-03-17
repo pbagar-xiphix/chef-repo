@@ -13,3 +13,5 @@ cookbook_path            ["#{current_dir}/../cookbooks"]
 cookbook_copyright 		 "xiphix"
 cookbook_license		 "apachev2"
 cookbook_email			 "pbagar@xiphix.com"
+
+knife[:editor] = '"C:\Program Files\Sublime Text 2\sublime_text.exe --wait"'
